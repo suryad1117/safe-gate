@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SafeGate</string>
+    <string name="device_admin_description">SafeGate Device Administration prevents unauthorized uninstallation and removal without authentication.</string>
+</resources>
+
